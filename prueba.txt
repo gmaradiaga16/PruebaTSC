@@ -3,8 +3,6 @@ $ git config --global user.email johndoe@example.com
 
 
 Nombre de la Rama
-
 Actualizado 2
-
-
 CAMBIOS
+Cambio 3
